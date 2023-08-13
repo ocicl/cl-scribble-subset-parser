@@ -2,8 +2,9 @@
 
 This project allows you to parse a subset of the Scribble Documentation Language for Common Lisp.
 
+
 |---------+--------------------------------------------------------------------|
 | source  | git:https://codeberg.org/osh-autodoc/cl-scribble-subset-parser.git |
-| commit  | e06173b4f3                                                         |
+| commit  | e06173b                                                            |
 | systems | cl-scribble-subset-parser                                          |
 |---------+--------------------------------------------------------------------|
